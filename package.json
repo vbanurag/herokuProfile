@@ -1,0 +1,14 @@
+{
+    "name": "profile",
+    "version": "0.0.1",
+    "description": "My resume page",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "Anurag Sharma <anurag.sharma@tothenew.com>",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.15.3"
+    }
+}
